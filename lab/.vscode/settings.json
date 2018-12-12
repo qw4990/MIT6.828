@@ -1,5 +1,7 @@
 {
     "files.associations": {
-        "monitor.h": "c"
+        "monitor.h": "c",
+        "lib.h": "c",
+        "pmap.h": "c"
     }
 }
