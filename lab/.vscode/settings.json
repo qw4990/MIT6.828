@@ -2,6 +2,7 @@
     "files.associations": {
         "monitor.h": "c",
         "lib.h": "c",
-        "pmap.h": "c"
+        "pmap.h": "c",
+        "types.h": "c"
     }
 }
